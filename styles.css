@@ -52,7 +52,7 @@ footer {
     align-items: center;
     position: relative;
     top: -2rem;
-    left: 40rem;
+    left: 75rem;
     width: 38rem;
     height: 3.5rem;
 }
@@ -76,7 +76,7 @@ footer {
 
 .text-cont {
     margin: 160px 0 0 20px;
-    width: 1250px;
+    width: 1920px;
 }
 
 .dis {
@@ -87,7 +87,7 @@ footer {
     font-size: 2rem;
     padding: 20px 20px;
     border-radius: 30px;
-    margin-left: 850px;
+    margin-left: 1450px;
     position: relative;
     bottom: 4.5rem;
 
